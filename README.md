@@ -13,7 +13,7 @@ Demo link:-
 
 ## Screenshots
 
-[(https://drive.google.com/file/d/1ksC2R22K4f0gZz7-ScM-24Ll6Bp7cx1b/view?usp=sharing)]
+https://i.ibb.co/pJ3rDYt/Nykaa.png
 
 
 ## Features
