@@ -29,8 +29,8 @@ Demo link:-
 Install my-project with npm
 
 ```bash
-  npm install create-react-app Constructweek
-  cd Constructweek
+  npm install create-react-app newproject
+  cd newproject
 ```
     
 ## Tech Stack
